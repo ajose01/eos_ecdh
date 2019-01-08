@@ -1,0 +1,17 @@
+{
+  "name": "encryption_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "elliptic": "^6.4.1",
+    "eosjs-ecc": "^4.0.4",
+    "futoin-hkdf": "^1.0.2"
+  }
+}
